@@ -1,0 +1,98 @@
+{ 
+    "name": "Orion",
+    "description": "My first attempt at making a propper theme for Vendetta (made by Felix)",
+   "authors": [
+     {
+       "name": "Felix Svetloozerskiy",
+       "id": "354936587186077707"
+     }
+   ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+          
+          "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+          
+          "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+          
+          "#D6D6D6"
+        ],
+        "TEXT_MUTED": [
+          
+          "#10717c"
+        ],
+        "INTERACTIVE_NORMAL": [
+          
+          "#158491"
+        ],
+        "INTERACTIVE_HOVER": [
+          
+          "#c5c118"
+          ],
+          "INTERACTIVE_ACTIVE": [
+            "#d81418"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#3a3a3a"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#06000A"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#171717"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#06000A"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#06000A"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#08393F"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#06000A"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#06000A"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#06000A"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#171717"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#171717"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#464646"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#1f1a23"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#396165"
+        ],
+        "TEXT_LINK": [
+            "#396165"
+        ],
+        "KEYBOARD": [
+            "#06000A"
+        ]
+},
+"rawColors": {
+    "PRIMARY_800": "#06000A",
+    "PRIMARY_600": "#06000A"
+  },
+  "background": {
+    "blur": 0.3,
+    "url": "https://cdn.discordapp.com/attachments/1089788093009240104/1099086378563801221/oGL8aO8K.jpg",
+    "alpha": 0.7
+    
+  }
+}
